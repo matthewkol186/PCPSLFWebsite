@@ -1,0 +1,42 @@
+.mt-1 {
+	margin-top: 1rem;
+}
+
+.pb-2 {
+	padding-bottom: 2rem;
+}
+
+.has-bg-img { 
+	background-image: linear-gradient(to bottom right, rgba(2, 255, 192, 0.85), rgba(18, 33, 116, 0.85)), url('../img/students.jpg');
+	background-size:cover; 
+}
+
+.student-picture { 
+	background: url('../img/ally.jpg') center center;
+	background-size:cover; 
+	border-radius: 12px;
+	box-shadow: 1rem 1rem 1rem -0.5rem rgba(10,10,10,.2);
+	min-height: 500px;
+}
+
+span.circleBadge {
+	background: $primary;
+	border-radius: 0.8em;
+	color: #ffffff;
+	display: inline-block;
+	font-weight: bold;
+	line-height: 1.6em;
+	margin-right: 15px;
+	text-align: center;
+	width: 1.6em; 
+}
+
+.left-border {
+	border-left: 3px white solid;
+}
+
+.card.interview-card {
+	box-shadow: 0 3rem 3rem -1rem rgba(10,10,10,.2);
+	// padding: 1rem;
+	border-radius: 12px;
+}
