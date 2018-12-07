@@ -1,6 +1,4 @@
 import React from 'react'
-import { FaTwitter } from 'react-icons/fa';
-
 
 class Interview extends React.Component {
     componentDidMount() {
