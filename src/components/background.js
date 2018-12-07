@@ -2,7 +2,7 @@ import React from 'react'
 import graph from '../img/shortage.png'
 import familyDoctor from '../img/family_doctor.jpg'
 
-const Background = () => (
+const Background = () => ( 
     <div>
         <section className="section is-medium">
             <div className="container">
@@ -92,5 +92,6 @@ const Background = () => (
         </section>
     </div>
 )
+    
 
 export default Background
