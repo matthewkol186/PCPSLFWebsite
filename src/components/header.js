@@ -20,7 +20,7 @@ const Header = ({ siteTitle, page }) => (
     <div id="navbarBasicExample" className="navbar-menu">
       {page === "/" &&
         <div className="navbar-start">
-          <AnchorLink className="navbar-item" href="/#background">
+          <AnchorLink className="navbar-item" href="#background">
             Background
           </AnchorLink>
 
