@@ -2,14 +2,14 @@ import React from 'react'
 import { FaCommentsDollar, FaFirstAid, FaChartLine } from 'react-icons/fa';
 
 const Impact = () => (
-    <section className="section hero is-primary is-bold">
+    <section className="section hero is-primary is-bold" id="impact">
         <div className="container has-margin-t-lg">
             <h1 className="title has-padding-t-lg has-text-centered">Projected Impact</h1>
             <div className="columns has-padding-t-md has-text-centered">
                 <div className="column">
                     <h1 className="title"><FaCommentsDollar /></h1>
                     <h1 className="subtitle">Cost</h1>
-                    <p className="has-text-light">The added loan forgiveness measures in PCPSLF will cost approximately $3.2B. However, just the FQHC-targeting component of PCPSLF will save $3.6B, the state opt-in program will save $375M, and the loophole elimination will save $900M, resulting in net savings of $1.5B by 2030. </p>
+                    <p className="has-text-light">The added loan forgiveness burden in PCPSLF will cost approximately $3.2B. However, strengthening FQHCs will save $3.6B via Medicare/Medicaid cost savings, the state opt-in program will save $375M, and the loophole elimination will save $900M, resulting in net savings of $1.5B by 2030. (See Methodology section of Citations.)</p>
                 </div>
                 <div className="column">
                     <h1 className="title"><FaFirstAid /></h1>
@@ -19,7 +19,7 @@ const Impact = () => (
                 <div className="column">
                 <h1 className="title"><FaChartLine /></h1>
                     <h1 className="subtitle">Outcomes</h1>
-                    <p className="has-text-light">The influx of primary care physicians to health professional shortage areas will result long-term in more equitable care, positive health outcomes, and a decrease in hospitalization and use of emergency department visits.</p>
+                    <p className="has-text-light">The influx of primary care physicians to health professional shortage areas will result long-term in more equitable care, positive health outcomes, and a decrease in hospitalization and use of emergency department visits.<sup>10</sup></p>
                 </div>
             </div>
         </div>

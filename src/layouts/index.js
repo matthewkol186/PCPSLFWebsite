@@ -6,7 +6,7 @@ import Header from '../components/header'
 import './index.scss'
 import favicon from '../img/favicon.png';
 
-const Layout = ({ children, data }) => (
+const Layout = ({ children, data, location }) => (
   <div>
     <Helmet
       title={data.site.siteMetadata.title}
@@ -18,7 +18,7 @@ const Layout = ({ children, data }) => (
         { rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }
       ]}
     />
-    <Header siteTitle={data.site.siteMetadata.title} />
+    <Header siteTitle={data.site.siteMetadata.title} page={location.pathname} />
     {children()}
   </div>
 )

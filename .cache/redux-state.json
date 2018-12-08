@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4da82ecee26a97af2456c5b0a8edb324",
+        "contentDigest": "581a04ee92143ee6c736decdde529286",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -276,7 +276,10 @@
           "noscript",
           "style"
         ],
-        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -340,7 +343,10 @@
           "sass",
           "scss"
         ],
-        "author": "Daniel Farrell <daniel@mobelux.com>",
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -438,6 +444,10 @@
             "version": "^1.0.26"
           },
           {
+            "name": "react-anchor-link-smooth-scroll",
+            "version": "^1.0.11"
+          },
+          {
             "name": "react-helmet",
             "version": "^5.2.0"
           },
@@ -472,12 +482,12 @@
       "host": "localhost",
       "pathPrefix": "/pcpslf",
       "polyfill": true,
-      "buildTime": "2018-12-07T21:57:52.682Z",
+      "buildTime": "2018-12-08T01:01:49.579Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bc4424778af77e00b0d40a46315901c3",
+        "contentDigest": "84310653a983ae077b662c7cde651fd3",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -498,7 +508,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0f2f764b3a441a98c8ece5bebde4f008",
+        "contentDigest": "5c09f5ac18d7fec449c641d7b5a43f27",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -519,7 +529,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ad119960239473a1182c90d3af330912",
+        "contentDigest": "47282bdb60ec2944cb1673eec4c1dff1",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -540,7 +550,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8227fb3f9d6e604e64300079863095b1",
+        "contentDigest": "39dc598d6cf85f29a7c87e4fe08cf374",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -561,15 +571,78 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "35aa3db278376780481881af98de8a70",
+        "contentDigest": "cfce7f7c619c3b31ad454495a9e199bf",
         "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "da3b002b20cb4b90b091dbaf34d4f157",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /works-cited/": {
+      "layout": "index",
+      "jsonName": "works-cited.json",
+      "internalComponentName": "ComponentWorksCited",
+      "path": "/works-cited/",
+      "component": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/works-cited.js",
+      "componentChunkName": "component---src-pages-works-cited-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/works-cited.js",
+      "id": "SitePage /works-cited/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d9f56a26c5af70d21f862711f9565432",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /detailed-writeup/": {
+      "layout": "index",
+      "jsonName": "detailed-writeup.json",
+      "internalComponentName": "ComponentDetailedWriteup",
+      "path": "/detailed-writeup/",
+      "component": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/detailed-writeup.js",
+      "componentChunkName": "component---src-pages-detailed-writeup-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/detailed-writeup.js",
+      "id": "SitePage /detailed-writeup/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8f7f2474c8f1abb1b29724fc511bc70a",
+        "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "fcfaf4e9e82ea605bedb961ea8697f58"
+    "PLUGINS_HASH": "22204fbe82bb66a6600dbdff23a50697"
   },
   "componentDataDependencies": {
     "nodes": {

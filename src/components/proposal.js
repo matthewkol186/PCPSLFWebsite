@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Proposal = () => (
-    <section className="section hero is-info is-bold">
+    <section className="section hero is-info is-bold" id="proposal">
         <div className="container has-text-centered has-text-white">
             <h1 className="is-size-2">
                 <span className="has-text-weight-bold">PCP</span>SLF
@@ -43,7 +43,7 @@ const Proposal = () => (
                         <p className="menu-label">What's Broken</p>
                         <ul>
                             <li className="has-padding-b-sm">
-                                Congressional Budget Office recently doubled cost estimate - $24 billion dollars over the next 10 years
+                                Congressional Budget Office recently doubled cost estimate - $24 billion dollars over the next 10 years<sup>11</sup>
                             </li>
                             <li className="has-padding-b-sm">
                                 Loophole for high-earning doctors at non-profit hospitals: a wealthy physician could get $700,000 forgiven in loans under PSLF. (See <a href="https://www.whitecoatinvestor.com/how-much-can-you-get-forgiven-via-pslf/" target="_blank">White Coat Investor</a>: "Since the amount you pay back is primarily determined by your salary and not the amount of loans you take out, there’s no disincentive to borrowing as much as you possibly can.")
@@ -77,7 +77,7 @@ const Proposal = () => (
                         <p className="menu-label has-text-light">What's Fixed</p>
                         <ul>
                             <li className="has-padding-b-sm">
-                                Close loophole for high earning professionals at 501(c)3 organizations. For 501(c)3 organizations, applicants for PSLF at the end of the 10-year period must have a yearly income that is at least 2x their current remaining debt burden. This means that physicians who start making high incomes after fellowship cannot "cheat" PSLF.
+                                Close loophole for high earning professionals. For 501(c)3 organizations, applicants for PSLF at the end of the 10-year period must have a yearly income that is at least 2x their current remaining debt burden. This means that physicians who start making high incomes after fellowship (approx. 8 years after medical school) cannot "cheat" PSLF.
                             </li>
                             <li className="has-padding-b-sm">
                                 Primary care physicians, especially those who work at FQHCs, will save the healthcare system money in the long term by reducing downstream costs. 

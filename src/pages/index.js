@@ -6,6 +6,7 @@ import Interview from '../components/interview'
 import Proposal from '../components/proposal'
 import Quiz from '../components/quiz'
 import Impact from '../components/impact'
+import HelpUs from '../components/helpus'
 
 const IndexPage = () => (
   <div>
@@ -15,9 +16,7 @@ const IndexPage = () => (
     <Proposal />
     <Impact />
     <Quiz />
-    <p className="mt-1">
-      <Link to="/page-2/">Go to page 2</Link>
-    </p>
+    <HelpUs />
   </div>
 )
 

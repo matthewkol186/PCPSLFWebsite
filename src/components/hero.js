@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Hero = () => (
-    <section className="hero is-info is-large has-bg-img">
+  <section className="hero is-info is-large has-bg-img">
     <div className="hero-body">
       <div className="container">
         <h1 className="is-size-1 has-text-weight-bold">

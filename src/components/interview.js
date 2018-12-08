@@ -9,7 +9,7 @@ class Interview extends React.Component {
 
     render() {
         return (
-        <section className="section has-background-light">
+        <section className="section has-background-light" id="story">
             <div className="columns is-centered">
                 <div className="column is-two-thirds">
                     <div className="card interview-card has-background-primary has-text-white">
