@@ -1,44 +1,23 @@
-# gatsby-bulma-default
+# PCPSLF Website
 
-**Demo:** https://aviaryan.in/gatsby-bulma-default
+A website to promote Primary Care Physician Student Loan Forgiveness (PCPSLF), a health policy I'm proposing for PUBLPOL 156: Health Care Policy and Reform, a class at Stanford.
 
-The [default Gatsby starter](https://github.com/gatsbyjs/gatsby-starter-default), bundled with a configurable Bulma installation.
+**Demo:** https://pcpslf.netlify.com
 
-> See the 2nd commit to see how it's done.
+## Installation and Production
 
-
-## Install
-
-Make sure that you have the Gatsby CLI program installed:
+You can run it by:
 ```sh
-npm install --global gatsby-cli
-```
-
-And run from your CLI:
-```sh
-gatsby new gatsby-bulma-site https://github.com/aviaryan/gatsby-bulma-default
-```
-
-Then you can run it by:
-```sh
-cd gatsby-bulma-site
+cd PCPSLFWebsite
 gatsby develop
 ```
 
 To build the application into static files, use:
 ```sh
 gatsby build
-# gatsby serve to serve from static folder
 ```
 
 
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/aviaryan/gatsby-bulma-default)
-
-
--------
-
 ## Credits
-
+* Credits to (https://github.com/aviaryan/gatsby-bulma-default)[https://github.com/aviaryan/gatsby-bulma-default], which was used as boilerplate for this website.
 * [Default Gatsby starter](https://github.com/gatsbyjs/gatsby-starter-default)
