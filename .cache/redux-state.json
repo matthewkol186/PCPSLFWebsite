@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "581a04ee92143ee6c736decdde529286",
+        "contentDigest": "978270117616a4cb28eb27ab9c41ea7e",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -482,12 +482,12 @@
       "host": "localhost",
       "pathPrefix": "/pcpslf",
       "polyfill": true,
-      "buildTime": "2018-12-08T01:01:49.579Z",
+      "buildTime": "2018-12-08T08:58:44.808Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "84310653a983ae077b662c7cde651fd3",
+        "contentDigest": "e1e0f6943c5582de8ccf0b3f61bd7456",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -508,71 +508,8 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5c09f5ac18d7fec449c641d7b5a43f27",
+        "contentDigest": "52026c2285c326471844920fb417e68b",
         "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "47282bdb60ec2944cb1673eec4c1dff1",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /page-2/": {
-      "layout": "index",
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "path": "/page-2/",
-      "component": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "39dc598d6cf85f29a7c87e4fe08cf374",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "cfce7f7c619c3b31ad454495a9e199bf",
-        "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
     },
@@ -592,28 +529,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "da3b002b20cb4b90b091dbaf34d4f157",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /works-cited/": {
-      "layout": "index",
-      "jsonName": "works-cited.json",
-      "internalComponentName": "ComponentWorksCited",
-      "path": "/works-cited/",
-      "component": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/works-cited.js",
-      "componentChunkName": "component---src-pages-works-cited-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/works-cited.js",
-      "id": "SitePage /works-cited/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d9f56a26c5af70d21f862711f9565432",
+        "contentDigest": "cee44e3269279a90a18813b6d4c5eb43",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -634,8 +550,71 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8f7f2474c8f1abb1b29724fc511bc70a",
+        "contentDigest": "a0cb3ccfb35514026bdd2440ee395ce2",
         "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "45c673137d9672041060719e44723276",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /works-cited/": {
+      "layout": "index",
+      "jsonName": "works-cited.json",
+      "internalComponentName": "ComponentWorksCited",
+      "path": "/works-cited/",
+      "component": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/works-cited.js",
+      "componentChunkName": "component---src-pages-works-cited-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/works-cited.js",
+      "id": "SitePage /works-cited/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8b256d69849beb714d609b9eab902f67",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/mnt/c/Users/matth/Documents/PCPSLFWebsite/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2f050f950286947b024195aa3a57e412",
+        "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
     }
