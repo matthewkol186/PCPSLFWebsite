@@ -25,7 +25,7 @@ const Background = () => (
                         </p>
                     </div>
                     <div className="column is-one-third">
-                        <figure class="image">
+                        <figure className="image">
                             <img src={familyDoctor} />
                         </figure>
                     </div>
@@ -36,10 +36,10 @@ const Background = () => (
             <div className="container">
                 <div className="columns">
                     <div className="column is-one-third">
-                        <figure class="image">
+                        <figure className="image">
                             <img src={graph} />
                         </figure>
-                        <h6 class="subtitle is-6">Source: American Association of Medical Colleges</h6>
+                        <h6 className="subtitle is-6">Source: American Association of Medical Colleges</h6>
                     </div>
                     <div className="column is-two-thirds has-padding-l-lg">
                         <div className="columns">
@@ -85,7 +85,7 @@ const Background = () => (
                         </p>
                     </div>
                     <div className="column is-one-third">
-                        <iframe width="100%" height="300" src="https://youtube.com/embed/sFTu4iHC8pU" allowfullscreen></iframe>
+                        <iframe width="100%" height="300" src="https://youtube.com/embed/sFTu4iHC8pU" allowFullScreen></iframe>
                     </div>
                 </div>
             </div>

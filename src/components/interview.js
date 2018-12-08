@@ -16,7 +16,7 @@ class Interview extends React.Component {
                         <h1 className="is-size-3 has-text-white has-text-weight-semibold has-padding-lg">
                             Hear about Allie's journey through medical school.
                         </h1>
-                        <div className="columns" style={{"margin-bottom": 0}}>
+                        <div className="columns" style={{"marginBottom": 0}}>
                             <div className="column is-one-third has-padding-b-none student-picture">
                             </div>
                             <div className="column is-two-third has-padding-lg">

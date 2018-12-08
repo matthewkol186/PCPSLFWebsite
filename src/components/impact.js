@@ -3,7 +3,7 @@ import { FaCommentsDollar, FaFirstAid, FaChartLine } from 'react-icons/fa';
 
 const Impact = () => (
     <section className="section hero is-primary is-bold">
-        <div class="container has-margin-t-lg">
+        <div className="container has-margin-t-lg">
             <h1 className="title has-padding-t-lg has-text-centered">Projected Impact</h1>
             <div className="columns has-padding-t-md has-text-centered">
                 <div className="column">

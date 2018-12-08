@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/header'
 import './index.scss'
+import favicon from '../img/favicon.png';
 
 const Layout = ({ children, data }) => (
   <div>
@@ -12,6 +13,9 @@ const Layout = ({ children, data }) => (
       meta={[
         { name: 'description', content: 'Primary Care Physician Student Loan Forgiveness' },
         { name: 'keywords', content: 'healthcare, primary, care, healthy, shortage, physicians' },
+      ]}
+      link={[
+        { rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }
       ]}
     />
     <Header siteTitle={data.site.siteMetadata.title} />
