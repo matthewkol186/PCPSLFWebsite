@@ -19,5 +19,5 @@ gatsby build
 
 
 ## Credits
-* Credits to (https://github.com/aviaryan/gatsby-bulma-default)[https://github.com/aviaryan/gatsby-bulma-default], which was used as boilerplate for this website.
+* Credits to [https://github.com/aviaryan/gatsby-bulma-default](https://github.com/aviaryan/gatsby-bulma-default), which was used as boilerplate for this website.
 * [Default Gatsby starter](https://github.com/gatsbyjs/gatsby-starter-default)
