@@ -2,6 +2,8 @@
 
 A website to promote Primary Care Physician Student Loan Forgiveness (PCPSLF), a health policy I'm proposing for PUBLPOL 156: Health Care Policy and Reform, a class at Stanford.
 
+<img src="https://i.imgur.com/ZUjwgwK.png" data-canonical-src="https://i.imgur.com/ZUjwgwK.png" alt="PCPSLF Website Demo" width="auto" />  
+
 **Demo:** https://pcpslf.netlify.com
 
 ## Installation and Production
